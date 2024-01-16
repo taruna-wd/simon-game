@@ -1,0 +1,40 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.four-block{
+ display: flex;
+ justify-content:center;
+ align-items: center;
+ width: 100%;
+ margin: auto;
+ border-radius: 10px;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  margin:  10px;
+  border-radius: 50%;
+  box-shadow: 6px 10px  10px rgba(0, 0, 0, 0.8);
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: greenyellow;
+}
+.orange{
+  background-color: orange;
+}
+.yellow{
+  background-color: yellow;
+}
+.white{
+  background-color: white;
+}
+.userflash{
+  background-color: aqua;
+}
